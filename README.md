@@ -1,8 +1,8 @@
 # Project Overview
-This Rails application is an Encyclopedia, which allows users to create, view, edit, and delete articles. The application also provides search functionality to help users find relevant articles. These features were implemented as part of the internship assignment.
+This Rails application is an Encyclopedia, which allows users to create, view, edit, and delete articles. The application also provides search functionality to help users find relevant articles.
 
 
-# Project Goals (Taken From the Assignment)
+# Project Goals
 
 1. Review Existing Tests: Start by reviewing the existing tests provided in the article_test.rb file located in the test/models directory. Understand the requirements and expectations of each test.
 
